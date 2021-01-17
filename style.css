@@ -54,7 +54,7 @@ body {
     width: 50%;
     height: 100%;
     pointer-events: none;
-    background: rgba(255, 255, 255, 0,02);
+    background: rgba(255, 255, 255, 0.02);
 }
 
 .form:hover {
